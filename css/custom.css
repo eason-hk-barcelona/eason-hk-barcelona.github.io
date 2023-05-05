@@ -1,0 +1,17 @@
+/* 页脚与头图透明 */
+#footer {
+    background-color: rgba(49, 255, 248, 0.17) !important;
+    z-index: 6;
+}
+
+/* 白天模式遮罩透明 */
+[data-theme="light"] #footer::before {
+    background-color: rgba(49, 255, 248, 0.17) !important;
+    z-index: 6;
+}
+
+/* 夜间模式页脚遮罩隐藏 */
+[data-theme="dark"] #footer::before {
+    background: transparent !important;
+}
+
