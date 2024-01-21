@@ -1,5 +1,9 @@
 @font-face {
-  font-family: 'JetBrainsMono-Medium';
+  font-family: 'JetBrains Mono';
   font-display: swap;
-  src: url('/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Medium.ttf') format("truetype");
+  src: url('../../JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Medium.ttf') format("truetype");
+}
+
+body {
+  font-family: 'JetBrains Mono';
 }
