@@ -1,8 +1,4 @@
-@font-face {
-  font-family: 'JetBrainsMono-Medium';
-  font-display: swap;
-  src: url('/JetBrainsMono-2.304/fonts/ttf/JetBrainsMono-Medium.ttf') format("truetype");
-}
+
 /* 页脚与头图透明 */
 #footer {
   background-color: rgba(49, 255, 248, 0.17) !important;
