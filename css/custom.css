@@ -1,3 +1,4 @@
+/* 文章风车 */
 /* 文章页H1-H6图标样式效果 */
 /* 控制风车转动速度 4s那里可以自己调节快慢 */
 h1::before,
@@ -139,4 +140,15 @@ p {
   -moz-transform: scale(0.5);
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
+}
+
+/* 定位欢迎 */
+/* 欢迎信息 */
+#welcome-info {
+  background: linear-gradient(45deg, #b9f4f3, #e3fbf9);
+  border-radius: 18px;
+  padding: 8px;
+}
+[data-theme="dark"] #welcome-info {
+  background: #212121;
 }
