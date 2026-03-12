@@ -102,7 +102,12 @@ h6::before {
 
 p {
   text-indent: 2em;
-  /* 设置首行缩进为 2 个空格的宽度 */
+}
+
+#post .post-content img {
+  max-width: 70%;
+  display: block;
+  margin: 1rem auto;
 }
 
 /* 鼠标样式 */
