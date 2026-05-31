@@ -98,19 +98,32 @@
 }
 
 .author__name {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: .32em;
     line-height: 1.15;
+    white-space: nowrap;
+}
+
+.sidebar .author__name {
+    font-size: 1.15em;
 }
 
 .author__name-en,
 .author__name-zh {
-    display: block;
+    display: inline;
 }
 
 .author__name-zh {
-    margin-top: .18rem;
     color: inherit;
     font-size: 1em;
     font-weight: inherit;
+}
+
+@include breakpoint($large) {
+    .sidebar .author__name {
+        font-size: 1.05em;
+    }
 }
 
 .publication-list {
