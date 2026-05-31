@@ -22,7 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yichen (Eason) Guo"
+  name             : "Yichen Guo"
+  name_zh          : "郭奕辰"
   avatar           : "images/avatar.jpg"
   bio              : "Computer Science undergrad working on multimodal agents and trustworthy AI"
   location         : "Santa Barbara, CA"

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yichen (Eason) Guo, a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB NLP & AI Group](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
+I am currently a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB NLP & AI Group](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
 
 My current research interests lie in **multimodal agents** and **trustworthy AI**. Previously, I worked on an internal web IDE and developer tooling at [ByteDance](https://www.bytedance.com/), and on software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
 
