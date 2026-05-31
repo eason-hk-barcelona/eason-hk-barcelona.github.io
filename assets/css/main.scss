@@ -190,9 +190,77 @@
     color: #4f5b66;
 }
 
+.timeline-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    margin: .75rem 0 1.5rem 0;
+}
+
+.timeline-item {
+    display: grid;
+    grid-template-columns: 46px 1fr;
+    gap: .85rem;
+    align-items: start;
+}
+
+.timeline-logo {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    border-radius: 6px;
+}
+
+.timeline-content {
+    min-width: 0;
+}
+
+.timeline-row {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: .15rem;
+}
+
+.timeline-title {
+    color: #1f2933;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.timeline-title:hover {
+    color: #1f5fa8;
+    text-decoration: underline;
+}
+
+.timeline-date {
+    color: #52606d;
+    font-family: Monaco, Consolas, "Lucida Console", monospace;
+    font-size: .78rem;
+    white-space: nowrap;
+}
+
+.timeline-subtitle {
+    margin-top: .15rem;
+    color: #1f2933;
+}
+
+.timeline-meta,
+.timeline-note {
+    margin-top: .15rem;
+    color: #52606d;
+    font-size: .86rem;
+    line-height: 1.45;
+}
+
 @include breakpoint($medium) {
     .publication-card {
         grid-template-columns: minmax(220px, 38%) 1fr;
+    }
+
+    .timeline-row {
+        grid-template-columns: 1fr auto;
+        align-items: baseline;
+        column-gap: 1rem;
     }
 }
 
