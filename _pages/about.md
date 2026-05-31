@@ -34,8 +34,6 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
 
 # Publications
 
-For the most recent publication list, please also see my [Google Scholar profile](https://scholar.google.com/citations?user=U-jbJ3wAAAAJ).
-
 <div class="publication-list">
   <article class="publication-card">
     <div class="publication-thumb">
@@ -46,9 +44,6 @@ For the most recent publication list, please also see my [Google Scholar profile
       <div class="publication-keywords">
         <span>Agent Safety</span>
         <span>Harness Auditing</span>
-        <span>Boundary Compliance</span>
-        <span>Tool Use</span>
-        <span>Multi-Agent Evaluation</span>
       </div>
       <div class="publication-links">
         <a href="https://harnessaudit.github.io/">Website</a>
@@ -56,8 +51,8 @@ For the most recent publication list, please also see my [Google Scholar profile
         <a href="https://github.com/UCSB-AI/HarnessAudit">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/HarnessAudit">Dataset</a>
       </div>
-      <p class="publication-venue">Under review at NeurIPS, 2026. * Equal contribution.</p>
-      <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, <a href="https://eric-xw.github.io/">Xin Eric Wang</a>.</p>
+      <p class="publication-venue">Under review at NeurIPS, 2026. (* Equal contribution)</p>
+      <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang.</p>
     </div>
   </article>
 
@@ -70,9 +65,6 @@ For the most recent publication list, please also see my [Google Scholar profile
       <div class="publication-keywords">
         <span>Agent Memory</span>
         <span>Multimodal Agents</span>
-        <span>Action-World Interaction</span>
-        <span>Lifelong Memory</span>
-        <span>Benchmark</span>
       </div>
       <div class="publication-links">
         <a href="https://worldmemarena-mem.github.io/">Website</a>
@@ -81,7 +73,7 @@ For the most recent publication list, please also see my [Google Scholar profile
         <a href="https://huggingface.co/datasets/LCZZZZ/WorldMemArena">Dataset</a>
       </div>
       <p class="publication-venue">Under review at NeurIPS, 2026.</p>
-      <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, <a href="https://eric-xw.github.io/">Xin Eric Wang</a>.</p>
+      <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang.</p>
     </div>
   </article>
 
@@ -94,18 +86,14 @@ For the most recent publication list, please also see my [Google Scholar profile
       <div class="publication-keywords">
         <span>Generation-Time Attribution</span>
         <span>Omni-Modal LLMs</span>
-        <span>Multimodal Reasoning</span>
-        <span>Audio/Image/Video</span>
-        <span>No Retraining</span>
       </div>
       <div class="publication-links">
         <a href="https://jackie-2000.github.io/omnitrace.github.io/">Website</a>
         <a href="https://arxiv.org/abs/2604.13073">arXiv</a>
         <a href="https://github.com/eric-ai-lab/OmniTrace">Code</a>
-        <a href="https://pypi.org/project/omnitrace/">PyPI</a>
       </div>
       <p class="publication-venue">Under review at ECCV, 2026.</p>
-      <p class="publication-authors">Qianqi Yan, <strong>Yichen Guo</strong>, Ching-Chen Kuo, Shan Jiang, Hang Yin, Yang Zhao, <a href="https://eric-xw.github.io/">Xin Eric Wang</a>.</p>
+      <p class="publication-authors">Qianqi Yan, <strong>Yichen Guo</strong>, Ching-Chen Kuo, Shan Jiang, Hang Yin, Yang Zhao, Xin Eric Wang.</p>
     </div>
   </article>
 </div>
@@ -124,7 +112,7 @@ For the most recent publication list, please also see my [Google Scholar profile
       <div class="project-links">
         <a href="https://github.com/HUSTMiracle/BLBDGCD_huawei2024">Code</a>
       </div>
-      <p>An end-to-end PCB defect detection system integrating YOLOv9, Huawei ModelArts, a HarmonyOS app, backend services, board-side deployment, and NPU training. Ranked <strong class="project-highlight">#1</strong> in the Huawei Cloud track and won the <strong class="project-highlight">National Grand Prize</strong> in the 19th Challenge Cup.</p>
+      <p>An end-to-end PCB defect detection system integrating YOLOv9, Huawei ModelArts, a HarmonyOS app, backend services, board-side deployment, and NPU training.<br>Ranked <strong class="project-highlight">#2</strong> in the Huawei Cloud track and won the <strong class="project-highlight">National Grand Prize</strong> in the 19th Challenge Cup.</p>
     </div>
   </article>
 </div>
@@ -182,8 +170,8 @@ For the most recent publication list, please also see my [Google Scholar profile
         <a class="timeline-title" href="https://www.bytedance.com/">ByteDance</a>
         <span class="timeline-date">2024.12 - 2025.05</span>
       </div>
-      <div class="timeline-subtitle">Software Engineer</div>
-      <div class="timeline-note">Built an <a href="https://github.com/opensumi/core">OpenSumi</a>-based internal web IDE for ML engineering workflows; fixed an OpenSumi debug-module type-checking bug merged in <a href="https://github.com/opensumi/core/pull/4450">PR #4450</a>.</div>
+      <div class="timeline-subtitle">Software Engineer Intern</div>
+      <div class="timeline-note">Built an <a href="https://github.com/opensumi/core">OpenSumi-based</a> internal web IDE for ML engineering workflows; fixed an OpenSumi debug-module type-checking bug merged in <a href="https://github.com/opensumi/core/pull/4450">PR #4450</a>.</div>
     </div>
   </div>
 
