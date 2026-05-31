@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yichen (Eason) Guo, a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB NLP Group](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
+I am Yichen (Eason) Guo, a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB NLP & AI Group](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
 
 My current research interests include multimodal agents, long-horizon memory, agent safety and evaluation, and attribution for omni-modal large language models. Previously, I worked on an internal web IDE and developer tooling at [ByteDance](https://www.bytedance.com/), and on software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
 
@@ -127,7 +127,7 @@ For the most recent publication list, please also see my [Google Scholar profile
   </div>
 
   <div class="timeline-item">
-    <img class="timeline-logo" src="/images/logos/hust-icon.png" alt="HUST logo">
+    <img class="timeline-logo" src="/images/logos/hust-logo.png" alt="HUST logo">
     <div class="timeline-content">
       <div class="timeline-row">
         <a class="timeline-title" href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>
@@ -144,10 +144,10 @@ For the most recent publication list, please also see my [Google Scholar profile
 
 <div class="timeline-list">
   <div class="timeline-item">
-    <img class="timeline-logo" src="/images/logos/ucsb-nlp.png" alt="UCSB NLP Group logo">
+    <img class="timeline-logo" src="/images/logos/ucsb-nlp-ai.jpg" alt="UCSB NLP &amp; AI Group logo">
     <div class="timeline-content">
       <div class="timeline-row">
-        <a class="timeline-title" href="http://nlp.cs.ucsb.edu/people.html">UCSB NLP Group</a>
+        <a class="timeline-title" href="http://nlp.cs.ucsb.edu/people.html">UCSB NLP &amp; AI Group</a>
         <span class="timeline-date">2025.10 - Present</span>
       </div>
       <div class="timeline-subtitle">Research Intern, University of California, Santa Barbara</div>
@@ -157,7 +157,7 @@ For the most recent publication list, please also see my [Google Scholar profile
   </div>
 
   <div class="timeline-item">
-    <img class="timeline-logo" src="/images/logos/bytedance.svg" alt="ByteDance logo">
+    <img class="timeline-logo" src="/images/logos/bytedance.png" alt="ByteDance logo">
     <div class="timeline-content">
       <div class="timeline-row">
         <a class="timeline-title" href="https://www.bytedance.com/">ByteDance</a>
