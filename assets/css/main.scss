@@ -87,6 +87,115 @@
 
 }
 
+.publication-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+    margin-top: 1rem;
+}
+
+.publication-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    align-items: center;
+    padding: 1.1rem;
+    border: 1px solid #d7e3ef;
+    border-radius: 8px;
+    background: #eef6fd;
+}
+
+.publication-thumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    img {
+        width: 100%;
+        max-height: 230px;
+        object-fit: contain;
+        border: 1px solid #cfd7df;
+        background: #fff;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, .22);
+    }
+}
+
+.publication-body {
+    h3 {
+        margin: 0 0 .45rem 0;
+        font-size: 1.05rem;
+        line-height: 1.35;
+    }
+
+    p {
+        margin: .55rem 0 0 0;
+        line-height: 1.45;
+    }
+}
+
+.publication-keywords,
+.publication-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+    margin: .45rem 0;
+}
+
+.publication-keywords span {
+    display: inline-block;
+    padding: .12rem .55rem;
+    border-radius: 999px;
+    background: #fff3c4;
+    color: #66510b;
+    font-size: .75rem;
+    line-height: 1.6;
+}
+
+.publication-keywords span:nth-child(2n) {
+    background: #dff3df;
+    color: #245c24;
+}
+
+.publication-keywords span:nth-child(3n) {
+    background: #eadfff;
+    color: #5a2d90;
+}
+
+.publication-keywords span:nth-child(4n) {
+    background: #dff3fb;
+    color: #095b73;
+}
+
+.publication-links a {
+    display: inline-block;
+    padding: .15rem .65rem;
+    border-radius: 999px;
+    background: #fff;
+    color: #3b4b5b;
+    font-size: .8rem;
+    line-height: 1.6;
+    text-decoration: none;
+}
+
+.publication-links a:hover {
+    color: #1f5fa8;
+    text-decoration: underline;
+}
+
+.publication-venue {
+    font-weight: 600;
+}
+
+.publication-authors {
+    color: #4f5b66;
+}
+
+@include breakpoint($medium) {
+    .publication-card {
+        grid-template-columns: minmax(220px, 38%) 1fr;
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
