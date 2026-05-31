@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yichen (Eason) Guo, a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB NLP & AI Group](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
 
-My current research interests include multimodal agents, long-horizon memory, agent safety and evaluation, and attribution for omni-modal large language models. Previously, I worked on an internal web IDE and developer tooling at [ByteDance](https://www.bytedance.com/), and on software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
+My current research interests lie in multimodal agents and Trustworthy AI. Previously, I worked on an internal web IDE and developer tooling at [ByteDance](https://www.bytedance.com/), and on software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
 
 [Google Scholar](https://scholar.google.com/citations?user=U-jbJ3wAAAAJ) / [LinkedIn](https://www.linkedin.com/in/eason-hk/) / [GitHub](https://github.com/eason-hk-barcelona)
 

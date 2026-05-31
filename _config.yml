@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichen Guo"
-description              : "Computer Science undergraduate working on multimodal agents, agent safety, memory, and attribution."
+description              : "Working on multimodal agents and Trustworthy AI."
 url                      : "https://yichenguo0904.com"
 repository               : "eason-hk-barcelona/eason-hk-barcelona.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yichen (Eason) Guo"
   avatar           : "images/avatar.jpg"
-  bio              : "Computer Science Undergraduate"
+  bio              : "Working on multimodal agents and Trustworthy AI"
   location         : "Santa Barbara, CA"
   employer         : "UC Santa Barbara / HUST"
   pubmed           : 
