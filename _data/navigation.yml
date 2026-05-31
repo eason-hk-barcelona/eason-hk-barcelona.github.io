@@ -18,5 +18,8 @@ main:
   - title: "Experience"
     url: "/#experience"
 
+  - title: "CV"
+    url: "/files/Yichen_Guo_CV.pdf"
+
   - title: "Blog"
     url: "https://yichenguo0904.com/blog/"

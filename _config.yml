@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichen Guo"
-description              : "Academic personal homepage of Yichen Guo. Research, publications, projects, and notes."
+description              : "Computer Science undergraduate working on multimodal agents, agent safety, memory, and attribution."
 url                      : "https://yichenguo0904.com"
 repository               : "eason-hk-barcelona/eason-hk-barcelona.github.io"
 google_scholar_stats_use_cdn : false
@@ -22,15 +22,16 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yichen Guo"
+  name             : "Yichen (Eason) Guo"
   avatar           : "images/avatar.jpg"
-  bio              : "Academic personal homepage"
-  location         :
-  employer         :
+  bio              : "Computer Science Undergraduate"
+  location         : "Santa Barbara, CA"
+  employer         : "UC Santa Barbara / HUST"
   pubmed           : 
-  googlescholar    :
-  email            : "hguok7365@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=U-jbJ3wAAAAJ"
+  email            : "yichenguo@ucsb.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  cv               : "/files/Yichen_Guo_CV.pdf"
   uri              :
   bitbucket        :
   codepen          :
@@ -44,7 +45,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "eason-hk"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
