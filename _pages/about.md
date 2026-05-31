@@ -157,7 +157,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
         <a class="timeline-title" href="http://nlp.cs.ucsb.edu/people.html">UCSB NLP &amp; AI Group</a>
         <span class="timeline-date">2025.10 - Present</span>
       </div>
-      <div class="timeline-subtitle">Research Intern, University of California, Santa Barbara</div>
+      <div class="timeline-subtitle">Research Intern</div>
       <div class="timeline-meta">Advised by <a href="https://eric-xw.github.io/">Prof. Xin (Eric) Wang</a></div>
       <div class="timeline-note">Multimodal agents, agent memory, harness safety, and generation-time attribution.</div>
     </div>
