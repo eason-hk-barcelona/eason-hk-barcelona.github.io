@@ -121,20 +121,25 @@
 }
 
 .author__email-display {
-    display: block;
+    display: inline-block;
     max-width: 100%;
-    margin-top: .45rem;
+    margin-top: .75rem;
+    padding: .35rem .55rem;
+    border: 1px solid #d7dde5;
+    border-radius: 3px;
+    background: #f8fafc;
     color: #52606d;
     font-family: $monospace;
-    font-size: .74rem;
-    line-height: 1.4;
-    overflow-wrap: normal;
+    font-size: .82rem;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
     text-decoration: none;
 }
 
 .author__email-display:hover {
+    border-color: #b7c6d7;
     color: #1f5fa8;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 @include breakpoint($large) {
