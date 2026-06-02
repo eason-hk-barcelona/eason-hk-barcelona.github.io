@@ -120,6 +120,28 @@
     font-weight: inherit;
 }
 
+.author__email-display {
+    display: inline-block;
+    max-width: 100%;
+    margin-top: .75rem;
+    padding: .35rem .55rem;
+    border: 1px solid #d7dde5;
+    border-radius: 3px;
+    background: #f8fafc;
+    color: #52606d;
+    font-family: $monospace;
+    font-size: .82rem;
+    line-height: 1.35;
+    overflow-wrap: anywhere;
+    text-decoration: none;
+}
+
+.author__email-display:hover {
+    border-color: #b7c6d7;
+    color: #1f5fa8;
+    text-decoration: none;
+}
+
 @include breakpoint($large) {
     .sidebar .author__name {
         font-size: 1.05em;
