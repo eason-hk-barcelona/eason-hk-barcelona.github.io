@@ -13,11 +13,11 @@
       <span class="author__name-en">{{ author.name }}</span>
       {% if author.name_zh %}<span class="author__name-zh">{{ author.name_zh }}</span>{% endif %}
     </h3>
-    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
     {% if author.email %}
       {% assign visible_email = author.email_display | default: author.email %}
-      <a class="author__email-display" href="mailto:{{ author.email }}">{{ visible_email }}</a>
+      <div class="author__email-display">{{ visible_email }}</div>
     {% endif %}
+    {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
   <div class="author__urls-wrapper">
