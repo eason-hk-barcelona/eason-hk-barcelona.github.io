@@ -51,7 +51,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
         <a href="https://github.com/UCSB-AI/HarnessAudit">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/HarnessAudit">Dataset</a>
       </div>
-      <p class="publication-venue">arXiv preprint 2026</p>
+      <p class="publication-venue">arXiv preprint 2026. (* Equal contribution)</p>
       <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang.</p>
     </div>
   </article>
