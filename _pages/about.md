@@ -32,7 +32,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
 
 <span class='anchor' id='publications'></span>
 
-# Publications
+# Publications & Preprints
 
 <div class="publication-list">
   <article class="publication-card">
@@ -51,7 +51,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
         <a href="https://github.com/UCSB-AI/HarnessAudit">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/HarnessAudit">Dataset</a>
       </div>
-      <p class="publication-venue">Under review at NeurIPS, 2026. (* Equal contribution)</p>
+      <p class="publication-venue">arXiv preprint 2026</p>
       <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang.</p>
     </div>
   </article>
@@ -72,7 +72,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
         <a href="https://github.com/UCSB-AI/WorldMemArena">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/WorldMemArena">Dataset</a>
       </div>
-      <p class="publication-venue">Under review at NeurIPS, 2026.</p>
+      <p class="publication-venue">arXiv preprint 2026</p>
       <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang.</p>
     </div>
   </article>
@@ -92,7 +92,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
         <a href="https://arxiv.org/abs/2604.13073">arXiv</a>
         <a href="https://github.com/eric-ai-lab/OmniTrace">Code</a>
       </div>
-      <p class="publication-venue">Under review at ECCV, 2026.</p>
+      <p class="publication-venue">arXiv preprint 2026</p>
       <p class="publication-authors">Qianqi Yan, <strong>Yichen Guo</strong>, Ching-Chen Kuo, Shan Jiang, Hang Yin, Yang Zhao, Xin Eric Wang.</p>
     </div>
   </article>
