@@ -243,6 +243,10 @@
 .publication-authors {
     color: #4f5b66;
     font-size: .86rem;
+
+    strong {
+        font-weight: 800;
+    }
 }
 
 .project-list {
