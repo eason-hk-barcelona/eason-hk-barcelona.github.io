@@ -2,7 +2,7 @@
 
 This repository hosts the academic homepage for `https://yichenguo0904.com`.
 
-The root site uses the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template. The previous Hexo/Butterfly site from `/Users/eason/code/Blog` is preserved as a static blog under `/blog/` and linked from the header.
+The root site uses the [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) Jekyll template. The previous Hexo/Butterfly site from `/Users/eason/code/Blog` is preserved as a static blog under `/blog/` and remains directly accessible without a homepage navigation entry.
 
 ## Edit Content
 
