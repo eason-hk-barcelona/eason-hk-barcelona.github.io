@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichen Guo"
-description              : "Computer Science undergrad working on multimodal agents and trustworthy AI."
+description              : "First-year Ph.D. student at CUHK-Shenzhen working on LLM agents, multimodal intelligence, and trustworthy AI."
 url                      : "https://yichenguo0904.com"
 repository               : "eason-hk-barcelona/eason-hk-barcelona.github.io"
 google_scholar_stats_use_cdn : false
@@ -25,9 +25,9 @@ author:
   name             : "Yichen Guo"
   name_zh          : "郭奕辰"
   avatar           : "images/avatar.jpg"
-  bio              : "Computer Science undergrad working on multimodal agents and trustworthy AI"
-  location         : "Santa Barbara, CA"
-  employer         : "UC Santa Barbara / HUST"
+  bio              : "First-year Ph.D. student at CUHK-Shenzhen"
+  location         : "Shenzhen, China"
+  employer         : "CUHK-Shenzhen"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=U-jbJ3wAAAAJ"
   email            : "yichenguo.hk@gmail.com"
@@ -141,7 +141,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

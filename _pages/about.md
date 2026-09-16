@@ -17,15 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Computer Science undergraduate at [Huazhong University of Science and Technology](https://english.hust.edu.cn/) and an exchange student at the [University of California, Santa Barbara](https://www.ucsb.edu/). I work with the [UCSB AI](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/).
+I am a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), where I am fortunate to be co-advised by [Prof. Pinjia He](https://pinjiahe.github.io/) and [Prof. Wenxuan Wang](https://jarviswang94.github.io/).
 
-My current research interests lie in **multimodal agents** and **trustworthy AI**. Previously, I worked on an internal web IDE and developer tooling at [ByteDance](https://www.bytedance.com/), and on software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
+My research interests center on **LLM agents**, **multimodal intelligence**, and **trustworthy AI**. I received my B.Eng. in Computer Science and Technology from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2026. During my exchange study at the [University of California, Santa Barbara](https://www.ucsb.edu/), I worked with the [UCSB AI](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/). Previously, I also worked on developer tooling at [ByteDance](https://www.bytedance.com/) and software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
 
 [Google Scholar](https://scholar.google.com/citations?user=U-jbJ3wAAAAJ) / [LinkedIn](https://www.linkedin.com/in/eason-hk/) / [GitHub](https://github.com/eason-hk-barcelona)
 
 <span class='anchor' id='news'></span>
 
 # News
+- *2026.09*: Started my Ph.D. at CUHK-Shenzhen.
 - *2026.05*: WorldMemArena is now available on arXiv.
 - *2026.05*: HarnessAudit is now available on arXiv.
 - *2026.04*: OmniTrace is now available on arXiv.
@@ -123,11 +124,23 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
 
 <div class="timeline-list">
   <div class="timeline-item">
+    <img class="timeline-logo" src="/images/logos/cuhksz.png" alt="CUHK-Shenzhen logo">
+    <div class="timeline-content">
+      <div class="timeline-row">
+        <a class="timeline-title" href="https://www.cuhk.edu.cn/en">The Chinese University of Hong Kong, Shenzhen</a>
+        <span class="timeline-date">2026.09 - Present</span>
+      </div>
+      <div class="timeline-subtitle">Ph.D. in Artificial Intelligence</div>
+      <div class="timeline-meta">Co-advised by <a href="https://pinjiahe.github.io/">Prof. Pinjia He</a> and <a href="https://jarviswang94.github.io/">Prof. Wenxuan Wang</a></div>
+    </div>
+  </div>
+
+  <div class="timeline-item">
     <img class="timeline-logo" src="/images/logos/ucsb.png" alt="UCSB logo">
     <div class="timeline-content">
       <div class="timeline-row">
         <a class="timeline-title" href="https://www.ucsb.edu/">University of California, Santa Barbara</a>
-        <span class="timeline-date">2025.09 - 2026.06 (Expected)</span>
+        <span class="timeline-date">2025.09 - 2026.06</span>
       </div>
       <div class="timeline-subtitle">Exchange Study in Computer Science</div>
     </div>
@@ -138,7 +151,7 @@ My current research interests lie in **multimodal agents** and **trustworthy AI*
     <div class="timeline-content">
       <div class="timeline-row">
         <a class="timeline-title" href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a>
-        <span class="timeline-date">2022.09 - 2026.07 (Expected)</span>
+        <span class="timeline-date">2022.09 - 2026.07</span>
       </div>
       <div class="timeline-subtitle">B.Eng. in Computer Science and Technology</div>
     </div>
