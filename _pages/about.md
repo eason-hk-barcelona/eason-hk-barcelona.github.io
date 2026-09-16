@@ -23,7 +23,7 @@ Before that, I conducted research with [UCSB AI](https://nlp.cs.ucsb.edu/people.
 
 My research interests lie in **LLM agents**, **multimodal intelligence**, and **trustworthy AI**.
 
-I welcome opportunities to collaborate and exchange ideas. If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to reach out!
+I always welcome opportunities to collaborate and exchange ideas. If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to reach out!
 
 📧 yichenguo1 [at] link [dot] cuhk [dot] edu [dot] cn<br>
 📧 yichenguo.hk [at] gmail [dot] com
