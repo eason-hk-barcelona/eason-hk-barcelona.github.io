@@ -13,9 +13,8 @@
       <span class="author__name-en">{{ author.name }}</span>
       {% if author.name_zh %}<span class="author__name-zh">{{ author.name_zh }}</span>{% endif %}
     </h3>
-    {% if author.email %}
-      {% assign visible_email = author.email_display | default: author.email %}
-      <div class="author__email-display">{{ visible_email }}</div>
+    {% if author.email_display %}
+      <div class="author__email-display">{{ author.email_display }}</div>
     {% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
@@ -45,7 +44,7 @@
         <li><a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate</a></li>
       {% endif %}
       {% if author.twitter %}
-        <li><a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+        <li><a href="https://x.com/{{ author.twitter }}"><span class="fa-fw" aria-hidden="true">𝕏</span> X</a></li>
       {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -143,7 +142,7 @@
         <a href="{{ author.researchgate }}"><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.twitter %}
-        <a href="https://x.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a>
+        <a href="https://x.com/{{ author.twitter }}" aria-label="X"><span class="fa-fw" aria-hidden="true">𝕏</span></a>
       {% endif %}
       {% if author.facebook %}
         <a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i></a>
