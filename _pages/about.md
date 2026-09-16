@@ -17,9 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) (CUHK-Shenzhen), where I am fortunate to be co-advised by [Prof. Pinjia He](https://pinjiahe.github.io/) and [Prof. Wenxuan Wang](https://jarviswang94.github.io/).
+I am a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en), where I am fortunate to be co-advised by [Prof. Pinjia He](https://pinjiahe.github.io/) and [Prof. Wenxuan Wang](https://jarviswang94.github.io/).
 
-My research interests center on **LLM agents**, **multimodal intelligence**, and **trustworthy AI**. I received my B.Eng. in Computer Science and Technology from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2026. During my exchange study at the [University of California, Santa Barbara](https://www.ucsb.edu/), I worked with the [UCSB AI](http://nlp.cs.ucsb.edu/people.html), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/). Previously, I also worked on a Web IDE at [ByteDance](https://www.bytedance.com/) and software testing research with [Prof. Darko Marinov](https://mir.cs.illinois.edu/marinov/)'s group at [UIUC](https://illinois.edu/).
+Before starting my Ph.D., I conducted research with the [UCSB NLP & AI Group](https://nlp.cs.ucsb.edu/people.html) during my exchange study at the [University of California, Santa Barbara](https://www.ucsb.edu/), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/). I received my B.Eng. in Computer Science and Technology from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2026. I also interned at [ByteDance](https://www.bytedance.com/), where I worked on an internal Web IDE for machine learning workflows.
+
+My research interests lie in **LLM agents**, **multimodal intelligence**, and **trustworthy AI**.
+
+I am always open to research discussions and collaborations. If you are interested in my work or would like to connect, please feel free to email me at [yichenguo1@link.cuhk.edu.cn](mailto:yichenguo1@link.cuhk.edu.cn).
 
 [Google Scholar](https://scholar.google.com/citations?user=U-jbJ3wAAAAJ) / [LinkedIn](https://www.linkedin.com/in/eason-hk/) / [GitHub](https://github.com/eason-hk-barcelona)
 
@@ -188,18 +192,6 @@ My research interests center on **LLM agents**, **multimodal intelligence**, and
     </div>
   </div>
 
-  <div class="timeline-item">
-    <img class="timeline-logo" src="/images/logos/uiuc.png" alt="UIUC logo">
-    <div class="timeline-content">
-      <div class="timeline-row">
-        <a class="timeline-title" href="https://mir.cs.illinois.edu/marinov/">Darko Marinov's Research Group, UIUC</a>
-        <span class="timeline-date">2024.07 - 2024.08</span>
-      </div>
-      <div class="timeline-subtitle">Research Intern</div>
-      <div class="timeline-meta">Advised by <a href="https://mir.cs.illinois.edu/marinov/">Prof. Darko Marinov</a> and <a href="https://reyhaneh.cs.illinois.edu/">Prof. Reyhaneh Jabbarvand</a></div>
-      <div class="timeline-note">Software testing research for long-running test-suite prioritization, including scalable statistical testing and result analysis.</div>
-    </div>
-  </div>
 </div>
 
 <span class='anchor' id='honors'></span>
