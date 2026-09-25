@@ -238,6 +238,16 @@
     font-size: .86rem;
     font-style: italic;
     font-weight: 400;
+
+    a {
+        color: inherit;
+    }
+}
+
+.publication-featured {
+    color: #a44f0a;
+    font-size: .84rem;
+    font-weight: 600;
 }
 
 .publication-authors {
