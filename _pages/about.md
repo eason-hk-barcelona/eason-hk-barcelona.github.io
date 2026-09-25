@@ -21,7 +21,7 @@ I am a first-year Ph.D. student at [The Chinese University of Hong Kong, Shenzhe
 
 Before that, I conducted research with [UCSB AI](https://nlp.cs.ucsb.edu/people.html) during my exchange study at the [University of California, Santa Barbara](https://www.ucsb.edu/), advised by [Prof. Xin (Eric) Wang](https://eric-xw.github.io/). I received my B.Eng. in Computer Science and Technology from [Huazhong University of Science and Technology](https://english.hust.edu.cn/). I also interned at [ByteDance](https://www.bytedance.com/), where I worked on an internal Web IDE for machine learning workflows.
 
-My research interests lie in **LLM agents**, **multimodal intelligence**, and **trustworthy AI**.
+My research interests lie in **LLM agents**, **multimodal LLMs**, and **trustworthy AI**.
 
 I always welcome opportunities to collaborate and exchange ideas. If you are interested in my work or would like to discuss potential collaborations, please don’t hesitate to reach out!
 

@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yichen Guo"
-description              : "First-year Ph.D. student at CUHK-Shenzhen working on LLM agents, multimodal intelligence, and trustworthy AI."
+description              : "First-year Ph.D. student at CUHK-Shenzhen working on LLM agents, multimodal LLMs, and trustworthy AI."
 url                      : "https://yichenguo0904.com"
 repository               : "eason-hk-barcelona/eason-hk-barcelona.github.io"
 google_scholar_stats_use_cdn : false
