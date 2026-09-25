@@ -33,10 +33,9 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.09*: WorldMemArena was accepted to the NeurIPS 2026 Evaluations and Datasets Track as a poster.
+- *2026.09*: WorldMemArena was accepted to the NeurIPS 2026 Evaluations and Datasets Track.
 - *2026.09*: Started my Ph.D. at CUHK-Shenzhen.
-- *2026.08*: HarnessAudit was accepted to HAIPS@COLM 2026 and COLM 2026 WAB as a poster.
-- *2026.08*: WorldMemArena was accepted to COLM 2026 WAB and LLA 2026 as a poster, and to EMM-QA 2026.
+- *2026.08*: HarnessAudit was accepted to COLM 2026 WAB.
 - *2026.05*: WorldMemArena is now available on arXiv.
 - *2026.05*: HarnessAudit is now available on arXiv.
 - *2026.04*: OmniTrace is now available on arXiv.
@@ -63,7 +62,7 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
         <a href="https://github.com/UCSB-AI/WorldMemArena">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/WorldMemArena">Dataset</a>
       </div>
-      <p class="publication-venue"><a href="https://openreview.net/forum?id=o06F424mDf">NeurIPS 2026 Evaluations and Datasets Track (Poster)</a><br><a href="https://openreview.net/forum?id=nPOsjSTWZK">COLM 2026 WAB (Poster)</a> &middot; <a href="https://openreview.net/forum?id=IZK0jfy4Ev">LLA 2026 (Poster)</a> &middot; <a href="https://openreview.net/forum?id=vVKwgZi0hg">EMM-QA 2026</a></p>
+      <p class="publication-venue"><a href="https://openreview.net/forum?id=o06F424mDf">NeurIPS 2026 Evaluations and Datasets Track</a></p>
       <p class="publication-featured">Featured by The Neuron</p>
       <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang.</p>
     </div>
@@ -82,13 +81,13 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
       <div class="publication-links">
         <a href="https://harnessaudit.github.io/">Website</a>
         <a href="https://arxiv.org/abs/2605.14271">arXiv</a>
-        <a href="https://openreview.net/forum?id=RqwS8SrhIE">OpenReview</a>
+        <a href="https://openreview.net/forum?id=ZEYvJyiloX">OpenReview</a>
         <a href="https://github.com/UCSB-AI/HarnessAudit">Code</a>
         <a href="https://huggingface.co/datasets/LCZZZZ/HarnessAudit">Dataset</a>
       </div>
-      <p class="publication-venue"><a href="https://openreview.net/forum?id=ZEYvJyiloX">COLM 2026 WAB (Poster)</a> &middot; <a href="https://openreview.net/forum?id=RqwS8SrhIE">HAIPS@COLM 2026 (Poster)</a><br>(* Equal contribution)</p>
+      <p class="publication-venue"><a href="https://openreview.net/forum?id=ZEYvJyiloX">COLM 2026 WAB</a></p>
       <p class="publication-featured">Featured by The Neuron and Synced (机器之心)</p>
-      <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang.</p>
+      <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang. (* Equal Contribution)</p>
     </div>
   </article>
 
