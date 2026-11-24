@@ -63,7 +63,7 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
         <a href="https://huggingface.co/datasets/LCZZZZ/WorldMemArena">Dataset</a>
       </div>
       <p class="publication-venue"><a href="https://openreview.net/forum?id=o06F424mDf">NeurIPS 2026 Evaluations and Datasets Track</a></p>
-      <p class="publication-featured">Featured by The Neuron and Synced (机器之心)</p>
+      <p class="publication-featured">Featured by The Neuron and <a href="https://mp.weixin.qq.com/s/7_c6DYGS4pdlg_g8zTYOeA">Synced (机器之心)</a></p>
       <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang.</p>
     </div>
   </article>
@@ -86,7 +86,7 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
         <a href="https://huggingface.co/datasets/LCZZZZ/HarnessAudit">Dataset</a>
       </div>
       <p class="publication-venue"><a href="https://openreview.net/forum?id=ZEYvJyiloX">COLM 2026 WAB</a></p>
-      <p class="publication-featured">Featured by The Neuron and Synced (机器之心)</p>
+      <p class="publication-featured">Featured by The Neuron and <a href="https://mp.weixin.qq.com/s/cSiVnwFO531w4ptK3Z4Viw">Synced (机器之心)</a></p>
       <p class="publication-authors">Chengzhi Liu*, <strong>Yichen Guo*</strong>, Yepeng Liu, Yuzhe Yang, Qianqi Yan, Xuandong Zhao, Wenyue Hua, Sheng Liu, Sharon Li, Yuheng Bu, Xin Eric Wang. (* Equal Contribution)</p>
     </div>
   </article>
