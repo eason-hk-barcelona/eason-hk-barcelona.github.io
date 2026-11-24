@@ -249,11 +249,12 @@
     font-size: .84rem;
     font-weight: 600;
 
-    a {
+    a,
+    a:hover,
+    a:focus,
+    a:active {
         color: inherit;
-        text-decoration-line: underline;
-        text-decoration-color: rgba(164, 79, 10, .35);
-        text-decoration-thickness: 1px;
+        text-decoration: underline solid rgba(164, 79, 10, .35) 1px !important;
         text-underline-offset: 3px;
     }
 }
