@@ -63,7 +63,7 @@ I always welcome opportunities to collaborate and exchange ideas. If you are int
         <a href="https://huggingface.co/datasets/LCZZZZ/WorldMemArena">Dataset</a>
       </div>
       <p class="publication-venue"><a href="https://openreview.net/forum?id=o06F424mDf">NeurIPS 2026 Evaluations and Datasets Track</a></p>
-      <p class="publication-featured">Featured by The Neuron</p>
+      <p class="publication-featured">Featured by The Neuron and Synced (机器之心)</p>
       <p class="publication-authors">Chengzhi Liu, Yuzhe Yang, Sophia Xiao Pu, Yepeng Liu, Lin Long, <strong>Yichen Guo</strong>, Nuo Chen, Zhaotian Weng, Elena Kochkina, Simerjot Kaur, Charese Smiley, Xiaomo Liu, James Zou, Sheng Liu, Yuheng Bu, Songyou Peng, Xin Eric Wang.</p>
     </div>
   </article>
