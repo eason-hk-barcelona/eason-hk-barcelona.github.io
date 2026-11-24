@@ -248,6 +248,10 @@
     color: #a44f0a;
     font-size: .84rem;
     font-weight: 600;
+
+    a {
+        color: inherit;
+    }
 }
 
 .publication-authors {
